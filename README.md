@@ -34,7 +34,7 @@ java ChatServer
 java ChatClient
 
 📷 Screenshots
-  ([link])
+  ([https://github.com/Sambie619/-Real-Time-Chat-Collaborative-Whiteboard/tree/main/ScreenShots])
   
 🔮 Future Enhancements
 
